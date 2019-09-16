@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
 
-"""
-Created on Fri Aug 23 08:55:40 2019
-Mat No: U18/FNS/MTH/1061
-@author: Nnaluo_patrick
-"""
 
 import math
 x = input("Enter a number x: ")
