@@ -1,5 +1,3 @@
-
-
 import math
 x = input("Enter a number x: ")
 y = input("Enter a number y: ")
